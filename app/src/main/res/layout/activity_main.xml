@@ -19,5 +19,32 @@
     </LinearLayout>-->
 
 
+    <Button
+        android:id="@+id/btnQRActivity"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="QR-Barcode Helper" />
 
+    <Button
+        android:id="@+id/btnCameraActivity"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Camera Helper" />
+
+    <Button
+        android:id="@+id/btnFirmaActivity"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Firma Helper" />
+
+
+    <Button
+        android:id="@+id/btnGoogleMap"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Google Map" />
 </LinearLayout>
